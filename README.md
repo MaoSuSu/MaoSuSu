@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-![6qv4wsaZkOyftSj](https://user-images.githubusercontent.com/45323874/165767121-b4f8132d-2a2d-46de-a09f-c768a705484b.gif)
-
+<div align=center><img src="https://user-images.githubusercontent.com/45323874/165915445-0f1a11d0-6758-4d16-b791-1872f4d4a883.gif" width="500"/></div>
 
 <!--
 **MaoSuSu/MaoSuSu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
